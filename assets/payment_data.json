@@ -1,0 +1,188 @@
+{
+    "2023": [
+        {
+            "month": "Jan",
+            "collectedAmount": 4,
+            "pendingAmount": 2
+        },
+        {
+            "month": "Feb",
+            "collectedAmount": 2,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Mar",
+            "collectedAmount": 5,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Apr",
+            "collectedAmount": 3,
+            "pendingAmount": 1
+        },
+        {
+            "month": "May",
+            "collectedAmount": 2,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Jun",
+            "collectedAmount": 2,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Jul",
+            "collectedAmount": 2,
+            "pendingAmount": 2
+        },
+        {
+            "month": "Aug",
+            "collectedAmount": 3,
+            "pendingAmount": 3
+        },
+        {
+            "month": "Sep",
+            "collectedAmount": 1,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Oct",
+            "collectedAmount": 6,
+            "pendingAmount": 2
+        },
+        {
+            "month": "Nov",
+            "collectedAmount": 3,
+            "pendingAmount": 4
+        },
+        {
+            "month": "Dec",
+            "collectedAmount": 6,
+            "pendingAmount": 2
+        }
+    ],
+    "2024": [
+        {
+            "month": "Jan",
+            "collectedAmount": 3,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Feb",
+            "collectedAmount": 4,
+            "pendingAmount": 2
+        },
+        {
+            "month": "Mar",
+            "collectedAmount": 6,
+            "pendingAmount": 3
+        },
+        {
+            "month": "Apr",
+            "collectedAmount": 5,
+            "pendingAmount": 2
+        },
+        {
+            "month": "May",
+            "collectedAmount": 4,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Jun",
+            "collectedAmount": 3,
+            "pendingAmount": 2
+        },
+        {
+            "month": "Jul",
+            "collectedAmount": 5,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Aug",
+            "collectedAmount": 4,
+            "pendingAmount": 2
+        },
+        {
+            "month": "Sep",
+            "collectedAmount": 3,
+            "pendingAmount": 3
+        },
+        {
+            "month": "Oct",
+            "collectedAmount": 5,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Nov",
+            "collectedAmount": 4,
+            "pendingAmount": 2
+        },
+        {
+            "month": "Dec",
+            "collectedAmount": 5,
+            "pendingAmount": 1
+        }
+    ],
+    "2025": [
+        {
+            "month": "Jan",
+            "collectedAmount": 5,
+            "pendingAmount": 3
+        },
+        {
+            "month": "Feb",
+            "collectedAmount": 6,
+            "pendingAmount": 2
+        },
+        {
+            "month": "Mar",
+            "collectedAmount": 4,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Apr",
+            "collectedAmount": 7,
+            "pendingAmount": 2
+        },
+        {
+            "month": "May",
+            "collectedAmount": 5,
+            "pendingAmount": 3
+        },
+        {
+            "month": "Jun",
+            "collectedAmount": 6,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Jul",
+            "collectedAmount": 4,
+            "pendingAmount": 2
+        },
+        {
+            "month": "Aug",
+            "collectedAmount": 5,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Sep",
+            "collectedAmount": 6,
+            "pendingAmount": 2
+        },
+        {
+            "month": "Oct",
+            "collectedAmount": 4,
+            "pendingAmount": 3
+        },
+        {
+            "month": "Nov",
+            "collectedAmount": 5,
+            "pendingAmount": 1
+        },
+        {
+            "month": "Dec",
+            "collectedAmount": 7,
+            "pendingAmount": 2
+        }
+    ]
+}
